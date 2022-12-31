@@ -1,6 +1,6 @@
 a = 5 + 10
 
-b = 745645565
+b = "gopinath"
 
 print(a)
 print(b)
