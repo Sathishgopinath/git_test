@@ -1,7 +1,7 @@
 a = 5 + 10
 
 
-b = "gopath"
+b = "gopathsdfsdf"
 
 
 print(a)
