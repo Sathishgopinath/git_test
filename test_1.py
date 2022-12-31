@@ -1,6 +1,6 @@
 a = 5 + 10
 
-b = 7 + 12
+b = 7
 
 print(a)
 print(b)
