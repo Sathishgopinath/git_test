@@ -1,7 +1,7 @@
 a = 5 + 10
 
 
-b = "gopinath"
+b = "gopath"
 
 
 print(a)
