@@ -1,6 +1,8 @@
 a = 5 + 10
 
-b = 745
+
+b = "gopinath"
+
 
 print(a)
 print(b)
