@@ -1,8 +1,9 @@
 a = 5 + 10
 
 c= 20
-b = "from "
-n = "aawtrfrghsersygfdgdfg"
+
+b = "from git repository"
+n = "sathish"
 
 print(a)
 print(b)
